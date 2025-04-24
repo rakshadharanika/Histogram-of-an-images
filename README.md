@@ -26,8 +26,8 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 
-# Developed By   : V RAKSHA DHARANIKA
-# Register Number: 212223230167
+### Developed By   : V RAKSHA DHARANIKA
+### Register Number: 212223230167
 ```py
 
 import cv2
